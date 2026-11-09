@@ -1,5 +1,0 @@
-streamlit
-pulp==2.9.0
-pandas
-networkx
-matplotlib
